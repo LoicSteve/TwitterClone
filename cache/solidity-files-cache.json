@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/admin-20218/LoicSteve/cryptozombies-2022-fall2/contracts/TwitterContract.sol": {
+      "lastModificationDate": 1669728025568,
+      "contentHash": "1d283644cb3acf2064e0c43692d859d4",
+      "sourceName": "contracts/TwitterContract.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "TwitterContract"
+      ]
+    },
+    "/Users/admin-20218/LoicSteve/TwitteClone/contracts/TwitterContract.sol": {
+      "lastModificationDate": 1669731579344,
+      "contentHash": "1d283644cb3acf2064e0c43692d859d4",
+      "sourceName": "contracts/TwitterContract.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "TwitterContract"
+      ]
+    }
+  }
+}
